@@ -53,6 +53,6 @@ pipeline {
                     '''
                 }
             }
-OAOAOA        }
+       }
     }
 }
